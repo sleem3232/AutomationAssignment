@@ -52,7 +52,6 @@ TestResults/latest-report.html
 ```bash
 dotnet test
 ```
-
 ---
 
 ## 💡 Highlights
