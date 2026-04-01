@@ -39,17 +39,13 @@ TestResults/latest-report.html
 ## 🖼 Screenshots
 
 ### Task 1 – UI & API Validation
-
 ![Task1](screenshots/task1-ui-api.png)
 
 ### Task 2 – Links Validation
-
-![Task2](screenshots/task2-links.png)
+![Task2](screenshots/task2-links-02.png)
 
 ### Task 3 – Dark Mode
-
 ![Task3](screenshots/task3-dark-mode.png)
-
 ---
 
 ## 🚀 Run
