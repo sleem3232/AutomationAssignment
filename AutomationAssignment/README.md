@@ -46,7 +46,6 @@ TestResults/latest-report.html
 
 ### Task 3 – Dark Mode
 ![Task3](screenshots/task3-dark-mode.png)
----
 
 ## 🚀 Run
 
