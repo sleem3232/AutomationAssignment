@@ -1,15 +1,8 @@
-﻿# Visual Studio
-.vs/
+﻿.vs/
 bin/
 obj/
-
-# User files
+TestResults/
 *.user
 *.suo
-
-# Test outputs
-TestResults/latest-report.html
-
-# OS
 .DS_Store
 Thumbs.db
