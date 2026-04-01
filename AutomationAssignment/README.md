@@ -2,12 +2,8 @@
 
 ## 📌 Overview
 
-This project demonstrates automation testing using:
-
-* Playwright (.NET)
-* NUnit
-* MediaWiki API
-* Custom HTML reporting
+QA automation project built with **C# + Playwright (.NET)**.
+Validates data consistency between UI and API, along with UI behavior checks.
 
 ---
 
@@ -15,31 +11,24 @@ This project demonstrates automation testing using:
 
 ### ✅ Task 1 – UI vs API Validation
 
-* Extract "Debugging features" via UI
-* Extract via API
-* Normalize text
-* Count unique words
+* Extract "Debugging features" via UI & API
+* Normalize text and count unique words
 * Compare results
-
----
 
 ### ✅ Task 2 – Links Validation
 
-* Navigate to Microsoft development tools section
 * Validate all technology names are clickable links
-
----
 
 ### ✅ Task 3 – Dark Mode Validation
 
-* Change theme to Dark mode
-* Validate background color changed via CSS
+* Switch to Dark mode
+* Verify background color change
 
 ---
 
-## 📊 HTML Report
+## 📊 Report
 
-Open the report:
+Test report:
 
 ```
 TestResults/latest-report.html
@@ -49,22 +38,30 @@ TestResults/latest-report.html
 
 ## 🖼 Screenshots
 
-### Task 1
+### Task 1 – UI & API Validation
 
 ![Task1](screenshots/task1-ui-api.png)
 
-### Task 2
+### Task 2 – Links Validation
 
 ![Task2](screenshots/task2-links.png)
 
-### Task 3
+### Task 3 – Dark Mode
 
 ![Task3](screenshots/task3-dark-mode.png)
 
 ---
 
-## 🚀 How to Run
+## 🚀 Run
 
 ```bash
 dotnet test
 ```
+
+---
+
+## 💡 Highlights
+
+* UI + API validation in a single flow
+* Clean and simple architecture
+* Custom HTML reporting
